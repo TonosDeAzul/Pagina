@@ -185,15 +185,10 @@ body
     top: 0;
     left: 40px;
     margin: auto;
+    padding: 5px;
     height: 45px;
-}
-
-.footer div .firma .linea
-{
-    height: 1px;
+    border-top: 1px solid #000;
     width: 120px;
-    background: #000;
-    margin-bottom: 10px;
 }
 
 .footer div .firma p
@@ -206,7 +201,7 @@ body
 }
 
 .footer div .firma span
-{
+{ 
     font-weight: 600;
 }
 
